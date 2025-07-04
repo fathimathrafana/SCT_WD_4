@@ -42,20 +42,27 @@ All tasks are saved locally via localStorage — no backend needed
 1.Add a Task:
 
 .Type your task in the input field
+
 .Set a due date (optional)
+
 .Select priority level (optional)
+
 .Click "Add Task" or press Enter
 
 2.Manage Tasks:
 
 .✔️ Check the box to mark as complete
+
 .✏️ Click the edit icon to modify a task
+
 .🗑️ Click the trash icon to delete a task
+
 .Use the filter buttons to view different task states
 
 3.Stay Organized:
 
 .Use priority levels to identify important tasks
+
 .Clear completed tasks with one click
 
 
