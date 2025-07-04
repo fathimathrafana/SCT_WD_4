@@ -62,6 +62,7 @@ All tasks are saved locally via localStorage — no backend needed
 📁 Project Structure
 
 📁 -todolist-app
+
 ├── 📄 index.html  
 
 ├── 🎨 style.css       
