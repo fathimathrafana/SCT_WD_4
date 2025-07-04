@@ -95,6 +95,7 @@ git clone https://github.com/fathimathrafana/SCT_WD_4.git
 ## 👨‍💻 Author
 
 Fathimath RafanaCR
+
 🔗 GitHub: https://github.com/fathimathrafana
 
 ## 📄 License
