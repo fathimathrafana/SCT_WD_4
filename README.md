@@ -62,10 +62,13 @@ All tasks are saved locally via localStorage — no backend needed
 📁 Project Structure
 
 📁 -todolist-app
-├── 📄 index.html       # Main HTML structure
-├── 🎨 style.css        # CSS styles and theming
-├── ⚙️ script.js        # Core logic and interactivity
-└── 📄 README.md        # Project documentation
+├── 📄 index.html  
+
+├── 🎨 style.css       
+
+├── ⚙️ script.js       
+
+
 
 ## 🛠️ Technologies Used
 HTML5
@@ -77,14 +80,16 @@ Vanilla JavaScript (DOM, localStorage)
 ## 📦 How to Run Locally
 Clone the repository
 
-git clone 
+git clone https://github.com/fathimathrafana/SCT_WD_4.git
 
 
 
 ## 👨‍💻 Author
+
 Fathimath RafanaCR
 🔗 GitHub: https://github.com/fathimathrafana
 
 ## 📄 License
+
 This project is open source and free to use for educational and personal purposes.
 
